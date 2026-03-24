@@ -9,14 +9,14 @@
 
    <br>
 
-本版块展示了@DrestryRobot一些不成熟和成熟的产品设计，旨在于学习、交流和分享。
+本版块展示了@会飞的摄影师吖一些不成熟和成熟的产品设计，旨在于学习、交流和分享。
 
 .. toctree::
    :maxdepth: 2
    :caption: 内容目录
 
    产品展示/AuboUnity
-   产品展示/DrestryRobot
+   产品展示/会飞的摄影师吖
    产品展示/SiteSearch
    产品展示/ModelView
 

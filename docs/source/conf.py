@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'DrestryRobot'
-copyright = '2025, DrestryRobot'
-author = 'DrestryRobot'
+project = '会飞的摄影师吖'
+copyright = '2025, 会飞的摄影师吖'
+author = '会飞的摄影师吖'
 
 # release = '2025.05.04'
 # version = '2025.05.04'

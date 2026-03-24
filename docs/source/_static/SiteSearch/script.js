@@ -50,7 +50,7 @@ async function getBestIcon(domain) {
 
 // 获取网站数据
 async function fetchSiteData() {
-    const response = await fetch("https://drestryrobot.readthedocs.io/zh-cn/latest/_static/SiteSearch/sites.json");
+    const response = await fetch("https://hfweb.readthedocs.io/zh-cn/latest/_static/SiteSearch/sites.json");
     return response.json();
 }
 

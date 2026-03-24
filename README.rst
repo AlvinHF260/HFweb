@@ -6,4 +6,4 @@ with some basic Sphinx docs.
 
 Read the tutorial here:
 
-https://drestryrobot.readthedocs.io
+https://hfweb.readthedocs.io

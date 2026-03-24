@@ -15,7 +15,7 @@ ModelView，是一个在线3D模型快速预览网页，支持模型添加和拖
 ---------
 - 2025.05.05
 
-    - 点击此处访问：`ModelView <https://drestryrobot.readthedocs.io/zh-cn/latest/_static/ModelView/ModelView.html>`_
+    - 点击此处访问：`ModelView <https://hfweb.readthedocs.io/zh-cn/latest/_static/ModelView/ModelView.html>`_
 
 反馈建议
 ---------

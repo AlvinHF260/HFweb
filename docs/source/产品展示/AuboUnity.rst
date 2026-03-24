@@ -7,7 +7,7 @@ AuboUnity
 
 项目简介
 ------------
-由DrestryRobot利用Unity搭建的按键控制机械臂的仿真软件AuboUnity，欢迎下载体验。
+由会飞的摄影师吖利用Unity搭建的按键控制机械臂的仿真软件AuboUnity，欢迎下载体验。
 
 软件版本
 ------------
@@ -45,7 +45,7 @@ AuboUnity程序压缩包下载链接：https://pan.baidu.com/s/1gGPt4EnfnrD811BA
 - 仅在windows上运行。
 - 第一版，比较简陋。
 - 后续有机会还会进一步优化。
-- 相关后续请关注抖音@DrestryRobot。
+- 相关后续请关注抖音@会飞的摄影师吖。
 - 存在一些问题，请谅解。
 - 开发源于兴趣，仅作分享用途。
 
